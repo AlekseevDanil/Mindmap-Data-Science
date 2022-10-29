@@ -1,0 +1,228 @@
+@startmindmap
+
+' Connecting a Project Theme
+!theme plain
+
+
+' Description of map styles
+<style>
+mindmapDiagram {
+    node {
+        HorizontalAlignment center
+    }
+}
+</style>
+
+
+' Titleƒ of the roadmap
+title <size:50>Data Science 2022 🚀</size>
+
+
+' Start (centre)
+*[#LightGreen] Data Science
+
+
+' Programming branch (left)
+--[#ffff99] Programming
+
+---[#ffff99] Languages
+----[#ffff99] Python
+-----[#ffff99]_ PEP8
+-----[#ffff99]_ Package managers
+------[#ffff99]_ PyPi
+------[#ffff99]_ Anaconda
+----[#ffff99] C++
+----[#ffff99] R (Big Data)
+----[#ffff99] Regular Expressions
+
+---[#ffff99] Interaction interfaces
+----[#ffff99] REST 
+-----[#ffff99]_ HTTP/HTTPS
+-----[#ffff99]_ API
+-----[#ffff99]_ Authentication
+------[#ffff99]_ OAuth
+------[#ffff99]_ Bearer
+------[#ffff99]_ JWT
+-----[#ffff99]_ CRUD
+-----[#ffff99]_ json
+----[#ffff99] Kafka
+----[#ffff99] GraphQL
+
+---[#ffff99] Automated Unit Tests
+
+---[#ffff99] Databases
+----[#ffff99] SQL
+-----[#ffff99]_ Raw SQL Queries
+-----[#ffff99]_ PostgreSQL
+-----[#ffff99]_ MySQL
+----[#ffff99] No SQL
+-----[#ffff99]_ MongoDB
+-----[#ffff99]_ ORM
+-----[#ffff99]_ Elasticsearch
+
+---[#ffff99] CI/CD
+----[#ffff99]_ Git
+----[#ffff99]_ Docker
+-----[#ffff99]_ YAML
+-----[#ffff99]_ Compose
+----[#ffff99]_ Linux
+-----[#ffff99]_ CLI
+-----[#ffff99]_ Vim
+----[#ffff99]_ Process logging
+
+---[#ffff99] Paradigms
+----[#ffff99]_ Artifacts
+-----[#ffff99]_ UML
+-----[#ffff99]_ DFD
+-----[#ffff99]_ Structural Diagrams
+-----[#ffff99]_ Petri nets
+-----[#ffff99]_ Transition Diagrams
+-----[#ffff99]_ Block Diagram
+-----[#ffff99]_ Decision Tables
+----[#ffff99]_ Design patterns
+----[#ffff99]_ Design principles
+----[#ffff99]_ OOP
+----[#ffff99]_ Structured programming
+----[#ffff99]_ Continuous integration
+----[#ffff99]_ Iterators and Generators
+----[#ffff99]_ Access Modifiers
+----[#ffff99]_ Iteration Protocol
+
+
+' Description of important algorithms and data structures
+--[#ff9999] Algorithms & Data Structures
+
+---[#ff9999]_ Algorithms️
+----[#ff9999]_ Sorting Methods
+----[#ff9999]_ Fourier transform
+----[#ff9999]_ Simplex method
+----[#ff9999]_ Dynamic Programming
+----[#ff9999]_ Recursion
+----[#ff9999]_ MapReduce
+----[#ff9999]_ SHA algorithm
+----[#ff9999]_ Dijkstra's algorithm
+----[#ff9999]_ Dijkstra's algorithm
+----[#ff9999]_ Dijkstra's algorithm
+
+
+---[#ff9999]_ Data Structures
+----[#ff9999]_ Matrices
+----[#ff9999]_ Decision tree
+----[#ff9999]_ Binary Tree
+----[#ff9999]_ Linked List
+----[#ff9999]_ Hash Tables
+
+
+' Description of machine learning topics
+**[#66ccff] Machine Learning
+
+***[#66ccff] Algorithms
+****[#66ccff]_ Supervised learning
+*****[#66ccff]_ Regression
+******[#66ccff]_ Linear Regression
+******[#66ccff]_ Boosting
+******[#66ccff]_ Decision Trees
+******[#66ccff]_ Lasso, Ridge
+*****[#66ccff]_ Classification
+*****[#66ccff]_ Object Detection
+******[#66ccff]_ Decision Trees
+******[#66ccff]_ Logistic Regression
+******[#66ccff]_ Support Vector Machine
+******[#66ccff]_ Bayesian classifier
+*****[#66ccff]_ Neural Network
+******[#66ccff]_ Backpropagation
+******[#66ccff]_ Deep Learning
+*******[#66ccff]_ CNN
+*******[#66ccff]_ GAN
+****[#66ccff]_ Reinforcement training
+*****[#66ccff]_ Clustering
+******[#66ccff]_ DBSCAN
+******[#66ccff]_ Hierarchical clustering
+******[#66ccff]_ k-means method
+******[#66ccff]_ Spectral clustering
+*****[#66ccff]_ Neural networks
+******[#66ccff]_ Kohonen Neural Network
+******[#66ccff]_ Deep NN of Trust
+****[#66ccff]_ Recommender systems
+*****[#66ccff]_ Collabrative filtering
+*****[#66ccff]_ Hybrid Models
+*****[#66ccff]_ Content Based Recommendations
+****[#66ccff]_ Text Mining/NLP
+
+
+***[#66ccff] Model tracking
+****[#66ccff]_ Model quality metrics
+*****[#66ccff]_ Classification Accuracy
+*****[#66ccff]_ Logarithmic Loss
+*****[#66ccff]_ Confusion Matrix
+*****[#66ccff]_ Area under Curve
+*****[#66ccff]_ F1 Score
+*****[#66ccff]_ Mean Absolute Error
+*****[#66ccff]_ Mean Squared Error
+****[#66ccff]_ Airflow
+****[#66ccff]_ MLFlow
+
+***[#66ccff] Data visualization
+****[#66ccff]_ Graphs, charts
+
+***[#66ccff] Tools
+****[#ffff99]_ Python ML library
+*****[#ffff99]_ Pandas
+*****[#ffff99]_ Scikit-Learn
+*****[#ffff99]_ OpenCV
+*****[#ffff99]_ PyTorch
+*****[#ffff99]_ Tensorflow
+****[#ffff99]_ Hadoop
+*****[#ffff99]_ Spark
+*****[#ffff99]_ MapReduce
+
+
+' Description of exact sciences
+** Exact sciences
+' Description of the important in math
+*** Maths
+****_ Fundamental
+*****_ Derivatives
+*****_ Complex function
+*****_ Integrals
+****_ Linear algebra
+*****_ Matrix
+******_ Singular decomposition
+*****_ Vector
+****_ Mathematical analysis
+*****_ Limits
+*****_ Gradient Descent
+****_ Analytics Geometry
+****_ Discrete Math
+****_ Combinatorics
+****_ Set theory
+
+' Description of the important in statistics
+*** Statistics
+****_ P-Value
+****_ Expected value
+****_ Dispersion
+****_ Confidence intervals
+****_ Distributions
+*****_ Distribution density
+*****_ Distribution types
+*****_ Characteristics of distributions
+****_ Measures of Central Tendency
+*****_ Mean
+*****_ Median
+*****_ Mode
+****_ Central limit theorem
+****_ Correlations
+*****_ Traps
+*****_ Simpson's paradox
+
+' Description of the important in probability
+*** Probability
+****_ Probability Properties
+****_ Discrete random variables
+****_ Conditional Probability
+****_ Continuous random variables
+****_ Bayes theorem (formula)
+****_ Total Probability Formula
+
+@endmindmap
