@@ -6,7 +6,6 @@
 <p align="center">Mindmap to becoming an Data Science Expert in 2022</p>
 <p align="center">
     <a href="https://github.com/AlekseevDanil"><img src="https://img.shields.io/badge/Author-AlekseevDanil-light?style=for-the-badge"/></a>
-    <img src="https://img.shields.io/badge/Date-2022-light?style=for-the-badge"/>
     <a href="https://opensource.org/licenses/MIT/"><img src="https://img.shields.io/badge/Licenses-MIT-light?style=for-the-badge"/></a>
 </p>
 
