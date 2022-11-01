@@ -33,10 +33,11 @@ The whole map was described using the PlantUML language, you can see the code [h
 ### Knowledge certification
 | **URL** | **Title** | **Price** |
 |:----------|:----------|:----------|
-| [Amazone AWS](https://aws.amazon.com/ru/certification/certified-machine-learning-specialty/) | AWS Certified Machine Learning | 300 $ |
-| [Google](https://cloud.google.com/certification/data-engineer) | Professional Data Engineer | 200 $ |
+| [Amazone AWS](https://aws.amazon.com/ru/certification/certified-machine-learning-specialty/) | AWS Certified Machine Learning | 300$ |
+| [Google](https://cloud.google.com/certification/data-engineer) | Professional Data Engineer | 200$ |
 | [IBM](https://www.coursera.org/professional-certificates/ibm-data-science) | IBM Data Science Professional Certificate | Free |
-| [Tensoflow](https://www.tensorflow.org/certificate) | Tensorflow Developer Certificate | 100 $|
+| [Tensoflow](https://www.tensorflow.org/certificate) | Tensorflow Developer Certificate | 100$ |
+| [PostgreSQL](https://www.enterprisedb.com/course/postgresql-12-associate-certification) | PostgreSQL 12 Associate Certification | 200$ |
 
 ### Interesting to look
 | **URL** | **Direction** | **Title** |
